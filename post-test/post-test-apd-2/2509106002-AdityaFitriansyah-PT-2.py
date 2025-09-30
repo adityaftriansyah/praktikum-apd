@@ -1,3 +1,5 @@
+# update: testing commit rename
+
 # input dari user
 nama = input("Masukkan nama pasien: ")
 tinggi = float(input("Masukkan tinggi badan (cm): "))
