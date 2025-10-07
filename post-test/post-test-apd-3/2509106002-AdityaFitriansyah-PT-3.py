@@ -1,5 +1,3 @@
-# update: testing commit rename
-
 # Sistem Belanja Toko Sederhana by Adit
 
 # login sebagai member
